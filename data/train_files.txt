@@ -1,0 +1,10 @@
+row=315-col=210
+row=298-col=368
+row=372-col=182
+row=261-col=304
+row=344-col=354
+row=309-col=486
+row=252-col=172
+row=303-col=452
+row=384-col=346
+row=321-col=440
